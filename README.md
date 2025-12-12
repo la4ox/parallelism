@@ -4,4 +4,4 @@
 - simple (без параллельного исполнения)
 - threading (демонстрация GIL)
 - subprocess (ручное управление процессами)
-- multiprocessing (Pool)s
+- multiprocessing (Pool)
